@@ -6,11 +6,11 @@
 /*   By: jsilva-m <jsilva-m@student.42malaga.com    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2023/11/29 18:00:08 by jsilva-m          #+#    #+#             */
-/*   Updated: 2023/11/29 18:37:44 by jsilva-m         ###   ########.fr       */
+/*   Updated: 2023/12/04 10:56:51 by jsilva-m         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include "ft_printf.h"
+/*#include "ft_printf.h"
 
 int main(void)
 {
@@ -25,4 +25,4 @@ int main(void)
     i = printf("%c\n", '0');
     printf("Printf ha devuelto %d caracteres\n", i);
     return (1);
-}
+}*/
